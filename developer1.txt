@@ -13,7 +13,6 @@ https://imgs.xkcd.com/comics/ballmer_peak.png
 https://imgs.xkcd.com/comics/goto.png
 https://imgs.xkcd.com/comics/duty_calls.png
 https://imgs.xkcd.com/comics/regular_expressions.png
-http://xkcd.com/378/
 https://i.stack.imgur.com/DIz8X.jpg
 https://imgs.xkcd.com/comics/python.png
 https://i.stack.imgur.com/AD3Eo.gif
